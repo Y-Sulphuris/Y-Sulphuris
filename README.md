@@ -2,7 +2,7 @@
 
 ### Java Libraries
 All libraries are compatible with Java 1.8
-- [DataStreamLayouts]([/guides/content/editing-an-existing-page](https://github.com/Y-Sulphuris/DataStreamLayouts)) - Tiny library for authomation of reading/writing objects to Data Streams (mainly for networking)
+- [DataStreamLayouts](https://github.com/Y-Sulphuris/DataStreamLayouts) - Tiny library for authomation of reading/writing objects to Data Streams (mainly for networking)
 - [Callers](https://github.com/Y-Sulphuris/Callers) - Library that serves one perpose: getting caller class from the method (faster than getting full stacktrace)
 - [Ctrl-Fallback](https://github.com/Y-Sulphuris/Ctrl-Fallback) - Library for creating bindings to methods that you are not sure are available in your application
 - [Interners](https://github.com/Y-Sulphuris/Interners) - Common interner/deduplicator classes
