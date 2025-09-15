@@ -8,7 +8,7 @@ All libraries are compatible with Java 1.8
 - [Interners](https://github.com/Y-Sulphuris/Interners) - Common interner/deduplicator classes
 - [OpenArrays](https://github.com/Y-Sulphuris/OpenArrays) - Weird API for creation of static arrays within classes and access class fields via indexes with the same performance as direct access
 
-### Unsinished/Experimental Libraries
+### Unfinished/Experimental Libraries
 - [JNIDirect](https://github.com/Y-Sulphuris/JNIDirect) - Powerful library for creating platform-specific intrinsics using native methods and runtime machine code generation through C. Unfinished because I don't have proper hardware to support anything but Windows x64
 - [MemApi3](https://github.com/Y-Sulphuris/MemApi3) - Direct memory API a complete analogue of the memory operations from sun.misc.Unsafe. Unfinished due to dependence of JNIDirect
 - [JavaMemoryHandles](https://github.com/Y-Sulphuris/JavaMemoryHandles) - Analogue of Memory API from Java 22. Unfinished due to dependence of MemApi3 which is unfinished due to dependence of JNIDirect
