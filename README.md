@@ -6,7 +6,7 @@ All libraries are compatible with Java 1.8
 - [Callers](https://github.com/Y-Sulphuris/Callers) - Library that serves one perpose: getting caller class from the method (faster than getting full stacktrace)
 - [Ctrl-Fallback](https://github.com/Y-Sulphuris/Ctrl-Fallback) - Library for creating bindings to methods that you are not sure are available in your application
 - [Interners](https://github.com/Y-Sulphuris/Interners) - Common interner/deduplicator classes
-- [OpenArrays](https://github.com/Y-Sulphuris/OpenArrays) - Weird API for creation of static arrays within classes and access class fields via indexes with the same performance as direct access
+- [OpenArrays](https://github.com/Ydo4ki-Archive/OpenArrays) - Weird API for creation of static arrays within classes and access class fields via indexes with the same performance as direct access
 
 ### Unfinished/Experimental Libraries
 - [JNIDirect](https://github.com/Y-Sulphuris/JNIDirect) - Powerful library for creating platform-specific intrinsics using native methods and runtime machine code generation through C. Unfinished because I don't have proper hardware to support anything but Windows x64
@@ -15,6 +15,6 @@ All libraries are compatible with Java 1.8
 
 ### Other Experimental Projects ⚡
 
-- [Vird](https://github.com/Y-Sulphuris/Vird) - Exprerimental programing language aimed to achive maximum flexibility with maximum simplicity in syntax. Currently has too many changes so it lives in a multiple private repositories, but the development is still active.
+- [Vird](https://github.com/Ydo4ki-Archive/Vird) - Exprerimental programing language aimed to achive maximum flexibility with maximum simplicity in syntax. Currently has too many changes so it lives in a multiple private repositories, but the development is still active.
 - [MovLang](https://github.com/Y-Sulphuris/MovLang) - Esoteric programming language that supports only one operation: copy memory
-- [Sure](https://github.com/Y-Sulphuris/Sure) - No idea, I created this when someone joked about "sun.misc.Unsure" (actually it was probably me)
+- [Sure](https://github.com/Ydo4ki-Archive/Sure) - No idea, I created this when someone joked about "sun.misc.Unsure" (actually it was probably me)
