@@ -2,8 +2,8 @@
 
 ### Java Libraries
 All libraries are compatible with Java 1.8
-- [DataStreamLayouts](https://github.com/Y-Sulphuris/DataStreamLayouts) - Tiny library for authomation of reading/writing objects to Data Streams (mainly for networking).
-- [Callers](https://github.com/Y-Sulphuris/Callers) - Library that serves one perpose: getting caller class from the method (faster than getting full stacktrace).
+- [DataStreamLayouts](https://github.com/Y-Sulphuris/DataStreamLayouts) - Tiny library for automation of reading/writing objects to Data Streams (mainly for networking).
+- [Callers](https://github.com/Y-Sulphuris/Callers) - Library that serves one purpose: getting caller class from the method (faster than getting full stacktrace).
 - [Ctrl-Fallback](https://github.com/Y-Sulphuris/Ctrl-Fallback) - Library for creating bindings to methods that you are not sure are available in your application.
 - [Interners](https://github.com/Y-Sulphuris/Interners) - Common interner/deduplicator classes.
 
@@ -15,6 +15,6 @@ All libraries are compatible with Java 1.8
 
 ### Other Experimental Projects ⚡
 
-- [Fyrewurc](https://github.com/Ydo4ki/FyrewurcPrototype) - Exprerimental programing language aimed to achive maximum flexibility with maximum simplicity in model and syntax. Remains in a prototype stage for over a year now, but the development is still active.
+- [Fyrewurc](https://github.com/Ydo4ki/FyrewurcPrototype) - Experimental programing language aimed to achieve maximum flexibility with maximum simplicity in model and syntax. Remains in a prototype stage for over a year now, but the development is still active.
 - [MovLang](https://github.com/Y-Sulphuris/MovLang) - Esoteric programming language that supports only one operation: copy memory.
 - [Sure](https://github.com/Ydo4ki-Archive/Sure) - No idea, I created this when someone joked about "sun.misc.Unsure" (actually it was probably me).
